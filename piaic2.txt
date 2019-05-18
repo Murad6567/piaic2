@@ -1,0 +1,18 @@
+case studies
+trigger : hey device
+speech recognition : tell me a joke
+intent recognition : joke music time weather
+execute joke: its is not part of ai but part of program where you have done your AI code
+lader: laser sey mapping
+rader : wave sey 
+
+AI transformation on [playbook
+- execute a pilot project
+- build an in house Ai team 
+- provide broad Ai training
+- Develope an Ai strategic
+- develope internal and external commincation
+COMMON PITFALL
+means do and dont do
+GAN(gerneral adversial Network)
+
