@@ -1,0 +1,48 @@
+objective of AI FOR everyone
+1.Ai terminology including nuerual network, machine learning, deep learning, data science
+2. what Ai realistic can do and can not do
+3.
+
+there are two type of AI
+1 ANI
+2 AGI
+
+machine learning
+supervised learning
+why we transfer from machine learning to deep learning
+
+the rise of  fast computer:
+
+acquiring Data
+MACHINE LEARNING VS DATA SCIENCE
+
+what is ML And DS in a online ads industry?
+digital marketing example...
+DEEP LEARNING 
+there is every colounm is a feature
+
+AI and related disciplines 
+- machine learning
+- deep learning/ neural network
+- data science 
+- supervised
+- un supervised
+- rainforcement
+what make a company Al company?
+- strategic data acquisition
+- unified data warehouse
+- pervasive automation = for making your thing better and change for your company automated 
+- new role such a MLE = MACHINE LEARNING ENGINEERS should their for work in machine learnig and al
+
+AI transformation
+- excute pilot project to gain momentum
+- build an in-house Al team
+- provide broad Ai training
+- Develope Ai 
+
+Deciding about a new project
+ - technical diligence
+    - is is feasible project
+    - can AI do that?
+ - pretty much  anything you can do with a second of thought can be automated using supervised
+
